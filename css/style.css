@@ -1,0 +1,9 @@
+/* GLOBAL */
+* {box-sizing: border-box; margin: 0; padding: 0;}
+/* TABLA */
+.menu{display: inline-block; width: 115px; padding: 10px; max-width: 100%; border: 1px solid #E6E6E6;}
+.menu-top{background-color:darkgray; color:floralwhite;}
+.texto{color: #3645BC; font-size: 9px; text-align: center;}
+/* GRID SYSTEM */
+.row {margin-left: -14px; margin-right: -14px; margin-top: 10%;}
+.col-12 {width: 100%;}
